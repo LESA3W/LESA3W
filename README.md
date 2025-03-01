@@ -25,7 +25,7 @@
                     <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
                 </h3>
                 <p align="center">
-                    <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="Yomi Denzel"/> </a>
+                    <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> </a>
                     <p align="center">
                         📝 A site summarising Yomi Denzel !
             	</p>
@@ -40,7 +40,7 @@
                     <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
+                    <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer"> </a>
                     <p align="center">
                         📝 A IMC calculator to find out more about you !
                     </p>
