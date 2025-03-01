@@ -8,12 +8,7 @@
     <h3 align="center">I'm web developper</h3>
 </p>
 
-<!-- Social network -->
-
-
-a
-    </p>
-    <p align="left">
+ <p align="left">
         <a href="https://dev.to/codeoz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a>
     </p>
     <p align="left">
