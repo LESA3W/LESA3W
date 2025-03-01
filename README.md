@@ -6,7 +6,6 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Developer+FullStack;I'm+currently+learning+Vue.js👀">
-    <h3 align="center">I'm web developper</h3>
 </p>
 
 <p align="left">
@@ -15,7 +14,7 @@
 
 
 <!-- Projects -->
-<h1 align="center">My latest projects 👨‍💻</h1>
+<h1 align="center">My latest projects 💡</h1>
 <div align="center">
   <table>
         <tr>
@@ -55,30 +54,25 @@
   
 <td width="50%">
 				<h3 align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Gallery Scroll Experience</a>
+                    <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
                 </h3>
                 <p align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> <img src="./static/gallery.gif" alt="gallery"/> </a>
+                    <a href="https://github.com/LESA3W/Day_of_birth"  target="_blank" rel="noreferrer"> </a>
                     <p align="center">
-                        Gallery Scroll Experience, recommended on computer 🖥
+                        📝 A site that calculates the day you were born !
                     </p>
                 </p>
             </td>
 <td width="50%">
              <h3 align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
+                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
                 </h3>
                 <p align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer"> </a>
                     <p align="center">
-                        A netflix like for the Youtube Channel CCBTV
+                        📝 An efficient calculator !
                     </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Vue 2 with Element UI and typescript. Also use webpack.
-					</details>
+
             </td>
         </tr>
         <tr>
