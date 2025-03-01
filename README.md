@@ -4,18 +4,14 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
-    <h3 align="center">Love JS, love writting dev article and share my knowledges.</h3>
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;I'm+currently+learning+Vue.js">
     <h3 align="center">I'm web developper</h3>
 </p>
 
 <!-- Social network -->
-<p style="margin-top: 50px;">
-    <p align="left">
-        <a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/twitter/follow/code__oz?logo=twitter&style=for-the-badge" alt="code__oz" /></a>
-    </p>
-    <p align="left">
-        <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a>
+
+
+a
     </p>
     <p align="left">
         <a href="https://dev.to/codeoz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a>
