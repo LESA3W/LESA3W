@@ -27,7 +27,7 @@
                 <p align="center">
                     <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="Yomi Denzel"/> </a>
                     <p align="center">
-                        🚀 A site summarising Yomi Denzel !
+                        📝 A site summarising Yomi Denzel !
             	</p>
             </td>
 
@@ -37,12 +37,12 @@
   
 <td width="50%">
                             <h3 align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Chrome plugin: Pets for chrome</a>
+                    <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
+                    <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
                     <p align="center">
-                        🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
+                        📝 A IMC calculator to find out more about you !
                     </p>
                 </p>
                 </p>
