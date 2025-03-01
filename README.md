@@ -2,6 +2,7 @@
 
 <h1 align="center">Hello I'm Paul !</h1>
 
+
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=EBD41B&center=true&vCenter=true&lines=Developer+FullStack;I'm+currently+learning+Vue.js+👀">
@@ -10,38 +11,31 @@
 
 <p align="left">
         <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
-    </p>
-        <p align="left">
-        <a href='https://www.youtube.com/watch?v=RNSEtNQIcVM&t=1224s&ab_channel=Docker' target="blank">🐳 Docker Conf Speaker</a>
-    </p>
-	<p align="left">
-        <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="code__oz" />Certificated</a>
-    </p>
 </p>
+
 
 <!-- Projects -->
 <h1 align="center">My latest projects 👨‍💻</h1>
 <div align="center">
   <table>
         <tr>
-            <td width="50%">
+		
+<td width="50%">
                 <h3 align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                    <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="Yomi Denzel"/> </a>
                     <p align="center">
-                        A chill radio from youtube to listen Lo-Fi music without being disturbed
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Vue 2 and typescript. Also use webpack.
-					</details>
-            </p>
+                        🚀 A site summarising Yomi Denzel !
+            	</p>
             </td>
-            <td width="50%">
+
+
+
+
+  
+<td width="50%">
                             <h3 align="center">
                     <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Chrome plugin: Pets for chrome</a>
                 </h3>
@@ -50,21 +44,16 @@
                     <p align="center">
                         🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
                     </p>
-                        <p align="center">
-                        20 000 + current users !
-                    </p>
-                    <details>
-                        <summary>
-                        <b>Note 📝</b>
-                        </summary>
-                        Create a chrome plugin with native JS and webpack. Use spriteling js.
-                    </details>
                 </p>
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="50%">
+
+
+
+  
+<td width="50%">
 				<h3 align="center">
                     <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Gallery Scroll Experience</a>
                 </h3>
@@ -73,15 +62,9 @@
                     <p align="center">
                         Gallery Scroll Experience, recommended on computer 🖥
                     </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Gsap + Lenis.
-					</details>
                 </p>
             </td>
-            <td width="50%">
+<td width="50%">
              <h3 align="center">
                     <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
                 </h3>
@@ -99,7 +82,7 @@
             </td>
         </tr>
         <tr>
-            <td width="50%">
+<td width="50%">
                 <h3 align="center">
                     <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> Chrome plugin: Chatpgt Copy Export Clipboard </a>
                 </h3>
@@ -115,7 +98,7 @@
 						Create a chrome plugin with native JS and webpack.
 					</details>
             </p>
-            <td width="50%">
+<td width="50%">
                 <h3 align="center">Unbox JS 📦</h3>
                 <p align="center">
                     <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
@@ -274,138 +257,6 @@
     - <a href="mailto:codeoz.pro@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
-</p>
-
-<!-- Threejs -->
-<p style="margin: 15px;" align="center">
-    <h1 align="center">THREEJS project 🎥</h1>
-		<h2> <a href="https://glittery-gaufre-5d12a9.netlify.app/" target="_blank"> Chillflix 3D </a> </h2>
-		    <h2> <a href="https://eloquent-panda-0b559c.netlify.app/" target="_blank"> Tetris animation </a> </h2>
-			<h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
-			<h2> <a href="https://wondrous-semifreddo-df312d.netlify.app/" target="_blank"> Galaxy </a> </h2>
-			<h2> <a href="https://resilient-caramel-d2bd2a.netlify.app/" target="_blank"> Dices roll with physics </a> </h2>
-			<h2> <a href="https://cheerful-strudel-3e4d82.netlify.app/" target="_blank"> Shaders Raging Sea </a> </h2>
-	<details>
-		<summary>
-			<b>Workbench</b>
-		</summary>
-		    <h2> <a href="https://nimble-stroopwafel-0b8154.netlify.app#debug" target="_blank"> Wood door textures materials </a> </h2>
-			<h2> <a href="https://hilarious-cheesecake-2cef3e.netlify.app/" target="_blank"> Transform textures </a> </h2>
-			<h2> <a href="https://flourishing-manatee-68cd50.netlify.app" target="_blank"> Filtering textures </a> </h2>
-			<h2> <a href="https://zippy-frangollo-0cfaaf.netlify.app" target="_blank"> 3D Text </a> </h2>
-			<h2> <a href="https://sparkling-pastelito-df786f.netlify.app/" target="_blank"> Light Scene debug </a> </h2>
-				<h2> <a href="https://charming-belekoy-130aaa.netlify.app" target="_blank"> Fog scene debug </a> </h2>
-			<h2> <a href="https://roaring-rugelach-9ba47a.netlify.app/" target="_blank"> Baked shadows </a> </h2>
-			<h2> <a href="https://prismatic-blini-187ac1.netlify.app" target="_blank"> Debug shadows </a> </h2>
-			<h2> <a href="https://gentle-mermaid-665206.netlify.app/" target="_blank"> Encoding renderer/textures & Tone mapping </a> </h2>
-			<h2> <a href="https://rococo-hummingbird-8e3ba7.netlify.app/" target="_blank"> Bounciness & Friction  </a> </h2>
-	</details>
-</p>
-
-<!-- Open source repo -->
-<h1 align="center"> Open Source Repository ⭐️ </h1>
-<div align="center">
-<table>
-    <tr>
-        <td width="50%">
-            <p align="center">
-                <a href="https://github.com/Code-Oz/setup-linux-dev" target="_blank" rel="noopener"> Setup dev from start </a>
-             </p>
-            <p align="center">
-                <a href="https://github.com/Code-Oz/setup-linux-dev" target="blank"><img src="https://img.shields.io/github/stars/code-oz/setup-linux-dev?style=social" alt="code__oz" /></a>
-            </p>
-        </td>
-         <td width="50%">
-            <p align="center">
-                <a href="https://github.com/Code-Oz/basic-express-typescript" target="_blank" rel="noopener"> Bootstrap express typescript  </a>
-             </p>
-            <p align="center">
-                <a href="https://github.com/Code-Oz/basic-express-typescript" target="blank"><img src="https://img.shields.io/github/stars/code-oz/basic-express-typescript?style=social" alt="code__oz" /></a>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <p align="center">
-                <a href="https://github.com/cendevweb/unbox" target="_blank" rel="noopener"> Unbox js </a>
-             </p>
-            <p align="center">
-                <a href="https://github.com/cendevweb/unbox" target="blank"><img src="https://img.shields.io/github/stars/cendevweb/unbox?style=social" alt="code__oz" /></a>
-            </p>
-            <p align="center">
-                <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
-            </p>
-        </td>
-         <td width="50%">
-            <p align="center">
-                <a href="https://github.com/Code-Oz/code-oz" target="_blank" rel="noopener"> CodeOz Profile </a>
-             </p>
-            <p align="center">
-                <a href="https://github.com/Code-Oz/code-oz" target="blank"><img src="https://img.shields.io/github/stars/code-oz/code-oz?style=social" alt="code__oz" /></a>
-            </p>
-        </td>
-    </tr>
-</table>
-
-<!-- Important Articles -->
-<h1 align="center"> Most viewed article on Devto 📰 </h1>
-<p align="center"> I like to share my knowledge through my articles on <a href="https://dev.to/codeoz" target="_blank" rel="noopener">dev.to</a> </p>
-<div align="center">
-<table>
-    <tr>
-        <td width="50%">
-            <p align="center">
-                <a href="https://dev.to/codeoz/improve-your-js-skills-with-theses-tips-2-3bg2" target="_blank" rel="noopener">Improve your JS skills with those tips #2</a>
-             </p>
-            <p align="center">
-                <i>
-                    19500 views 👀
-                </i>
-            </p>
-        </td>
-         <td width="50%">
-            <p align="center">
-                <a href="https://dev.to/codeoz/enhance-your-js-skill-by-using-the-correct-array-method-5c2j" target="_blank" rel="noopener">Enhance your JS Skill by using the correct array method</a>
-             </p>
-            <p align="center">
-                <i>
-                    12000 views 👀
-                </i>
-            </p>
-        </td>
-    </tr>
-    <tr>
-         <td width="50%">
-            <p align="center">
-                <a href="https://dev.to/codeoz/7-html-attribute-you-should-know-right-now-dfn" target="_blank" rel="noopener"> 7 HTML attribute you should know right now! </a>
-             </p>
-            <p align="center">
-                <i>
-                    10000 views 👀
-                </i>
-            </p>
-        </td>
-         <td width="50%">
-            <p align="center">
-                <a href="https://dev.to/codeoz/3-ways-to-center-a-div-in-css-gl1" target="_blank" rel="noopener"> 3 Ways to CENTER a div in CSS </a>
-             </p>
-            <p align="center">
-                <i>
-                    9000 views 👀
-                </i>
-            </p>
-        </td>
-    </tr>
-</table>
-
-<p align="center">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-</p>
-<p align="center">
-    <h4>If you use my github profile, you can help by buying me a coffee ☕️ 😀</h4>
-</p>
-<p align="center">
-	<a href='https://ko-fi.com/codeoz' target='_blank'><img height='35' style='border:0px;height:46px;'       src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
