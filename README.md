@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-        <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
+        <a href="https://github.com/LESA3W" target="blank"><img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" /></a>
 </p>
 
 
