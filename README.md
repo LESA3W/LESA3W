@@ -204,7 +204,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:paulchenon@gmail.com" target="blank"><img align="center" src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="paulchenon@gmail.com" height="27" width="37" /></a>
+<a href="mailto:paulchenon@gmail.com" target="blank"><img align="center" src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="paulchenon@gmail.com" height="25" width="35" /></a>
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
