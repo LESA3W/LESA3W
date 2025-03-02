@@ -204,6 +204,10 @@
 </p>
 
 <p align="center">
+<a href="mailto:paulchenon@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail-alt.svg" alt="paul chenon" height="30" width="40" /></a>
+</p>
+
+<p align="center">
 <a href="mailto:paulchenon@gmail.com">📧 Mail</a>
 </p>
 
