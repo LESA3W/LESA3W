@@ -7,10 +7,13 @@
 <h1 align="center">Hello I'm Paul !</h1>
 
 
-
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Developer+FullStack;I'm+currently+learning+Vue.js👀">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesa3w&show_icons=true&locale=en&layout=compact" alt="lesa3w" style="display: block; margin: auto;" />
 </p>
 
 
