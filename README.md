@@ -1,7 +1,6 @@
 <div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/LESA3W" target="blank"> <img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" />
   <img src="https://komarev.com/ghpvc/?username=lesa3w&label=Profile%20views&color=0e75b6&style=flat" alt="lesa3w" />
-  <a href="https://github.com/LESA3W" target="blank">
-    <img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" />
   </a>
 </div>
 
@@ -18,103 +17,54 @@
 <!-- Projects -->
 <h1 align="center">My latest projects 💡</h1>
 <div align="center">
-  <table>
-        <tr>
-		
-<td width="50%">
-                <h3 align="center">
-                    <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
-                </h3>
-                <p align="center">
-                    <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> </a>
-                    <p align="center">
-                        📝 A site summarising Yomi Denzel !
-            	</p>
-            </td>
+  <table style="border-collapse: collapse; border: none;">
+
+<tr>
+      <td width="50%" style="border: none;">
+        <h3 align="center">
+          <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
+        </h3>
+        <p align="center">📝 A site summarising Yomi Denzel !</p>
+      </td>
+      <td width="50%" style="border: none;">
+        <h3 align="center">
+          <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
+        </h3>
+        <p align="center">📝 A IMC calculator to find out more about you !</p>
+      </td>
+</tr>
 
 
+<tr>
+      <td width="50%" style="border: none;">
+        <h3 align="center">
+          <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
+        </h3>
+        <p align="center">📝 A site that calculates the day you were born !</p>
+      </td>
+      <td width="50%" style="border: none;">
+        <h3 align="center">
+          <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
+        </h3>
+        <p align="center">📝 An efficient calculator !</p>
+      </td>
+</tr>
 
 
-
-  
-<td width="50%">
-                            <h3 align="center">
-                    <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
-                </h3>
-                <p align="center">
-                    <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer"> </a>
-                    <p align="center">
-                        📝 A IMC calculator to find out more about you !
-                    </p>
-                </p>
-                </p>
-            </td>
-        </tr>
-        <tr>
-
-
-  
-<td width="50%">
-				<h3 align="center">
-                    <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
-                </h3>
-                <p align="center">
-                    <a href="https://github.com/LESA3W/Day_of_birth"  target="_blank" rel="noreferrer"> </a>
-                    <p align="center">
-                        📝 A site that calculates the day you were born !
-                    </p>
-                </p>
-                </p>
-            </td>
-
-
-  
-<td width="50%">
-             <h3 align="center">
-                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
-                </h3>
-                <p align="center">
-                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer"> </a>
-                    <p align="center">
-                        📝 An efficient calculator !
-                    </p>
-                </p>
-                </p>
-            </td>
-        </tr>
-        <tr>
-	
-
-  
-<td width="50%">
-				<h3 align="center">
-                    <a href="https://lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
-                </h3>
-                <p align="center">
-                    <a href="https://lesa3w.github.io/No_Caps/"  target="_blank" rel="noreferrer"> </a>
-                    <p align="center">
-                        📝 A showcase site for my collection of NFTs !
-                    </p>
-                </p>
-                </p>
-            </td>
-
-
-  
-<td width="50%">
-             <h3 align="center">
-                    <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer">🌐 Sphere Size</a>
-                </h3>
-                <p align="center">
-                    <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer"> </a>
-                    <p align="center">
-                        📝 Site for calculating the area or volume of a sphere !
-                    </p>
-                </p>
-                </p>
-            </td>
-        </tr>
-        <tr>
+<tr>
+      <td width="50%" style="border: none;">
+        <h3 align="center">
+          <a href="https://lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
+        </h3>
+        <p align="center">📝 A showcase site for my collection of NFTs !</p>
+      </td>
+      <td width="50%" style="border: none;">
+        <h3 align="center">
+          <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer">🌐 Sphere Size</a>
+        </h3>
+        <p align="center">📝 Site for calculating the area or volume of a sphere !</p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -122,8 +72,7 @@
 
 
 
-
-
+<h1 align="center"></h1>
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
 
