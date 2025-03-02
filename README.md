@@ -191,10 +191,10 @@
 <h1 align="center">How to get in touch?</h1>
 <h3 align="center">If you need my expertise for your project 👇</h3>
 <p align="center">
-    - <a href="https://twitter.com/messages/compose?recipient_id=1270463775309795333" target="_blank" rel="noopener"> You can send me message on twitter</a>
+    - <a href="https://twitter.com/messages/compose?recipient_id=test" target="_blank" rel="noopener"> You can send me message on twitter</a>
 </p>
 <p align="center">
-    - <a href="mailto:codeoz.pro@gmail.com">Send email</a>
+    - <a href="mailto:paulchenon@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>
