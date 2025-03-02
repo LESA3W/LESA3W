@@ -85,13 +85,13 @@
 
   
 <td width="50%">
-                <h3 align="center">
-                    <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> Chrome plugin: Chatpgt Copy Export Clipboard </a>
+				<h3 align="center">
+                    <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> <img src="./static/logo-chatgpt-plugin.png" alt="chatpgt-plugin" width="50%"/> </a>
+                    <a href="https://github.com/LESA3W/Day_of_birth"  target="_blank" rel="noreferrer"> </a>
                     <p align="center">
-                       🪄 Enhance CHATGPT with copy button, export chat in any extension and clipboard manager 📋. Compatible with AIPRM ✅
+                        📝 A site that calculates the day you were born !
                     </p>
                 </p>
                 </p>
@@ -100,12 +100,13 @@
 
   
 <td width="50%">
-                <h3 align="center">Unbox JS 📦</h3>
+             <h3 align="center">
+                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
+                </h3>
                 <p align="center">
-                    <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
-                    <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
+                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer"> </a>
                     <p align="center">
-                        npm repository
+                        📝 An efficient calculator !
                     </p>
                 </p>
                 </p>
@@ -115,65 +116,7 @@
   </table>
 </div>
 
-<!-- Old Projects -->
-<details>
-<summary>
-<b>Old Projects 👴</b>
-</summary>
-	<p align="center">
-		<p align="center">
-			<a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader 🛠</a>
-			<p align="center">
-				I created a youtube downloader that manage video & playlist download.
-			</p>
-		</p>
-	</p>
-	<p align="center">
-		<p align="center">
-			<b>Oz Blog</b>
-			<p align="center">
-				<a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="oz-blog"/> </a>
-				<p align="center">
-					My old blog based on Nuxt 2, NestJS and MongoDB.
-				</p>
-			</p>
-		</p>
-	</p>
-	<p align="center">
-		<p align="center">
-            <b>Old Monorepo with yarn workspace</b>
-			<p align="center">
-				I create a monorepo with yarn workspace from scratch. I updated a new one (see above !) ☝️
-			</p>
-		</p>
-	</p>
-	<p align="center">
-		<p align="center">
-			<a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener"> Twitch plus 🤖</a>
-			<p align="center">
-				Chrome extension that improve your experience on twitch.
-			</p>
-		</p>
-	</p>
-	<p align="center">
-		<p align="center">
-			<a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener"> liftP JS 📦</a>
-			<p align="center">
-				NPM Package to modify a sync function into an async function without manage parameters.
-			</p>
-		</p>
-	</p>
-	<p align="center">
-		<p align="center">
-			<a href="https://marketplace.visualstudio.com/items?itemName=code-oz.what-is-operator-javascript" target="_blank" rel="noreferrer">What is operator javascript 🔌 </a>
-			<p align="center">
-				I created an operator lookup plugin for all VSCode user!
-			</p>
-		</p>
-	</p>
-	<p style='margin-bottom: 175px'>
-	</p>
-</details>
+
 
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
