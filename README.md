@@ -1,7 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lesa3w&label=Profile%20views&color=0e75b6&style=flat" alt="lesa3w" /> </p>
-<p align="left">
-        <a href="https://github.com/LESA3W" target="blank"><img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" /></a>
-</p>
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=lesa3w&label=Profile%20views&color=0e75b6&style=flat" alt="lesa3w" />
+  <a href="https://github.com/LESA3W" target="blank">
+    <img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" />
+  </a>
+</div>
 
 <h1 align="center">Hello I'm Paul !</h1>
 
@@ -21,10 +23,10 @@
 		
 <td width="50%">
                 <h3 align="center">
-                    <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
+                    <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
                 </h3>
                 <p align="center">
-                    <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> </a>
+                    <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> </a>
                     <p align="center">
                         📝 A site summarising Yomi Denzel !
             	</p>
@@ -86,10 +88,10 @@
   
 <td width="50%">
 				<h3 align="center">
-                    <a href="lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
+                    <a href="https://lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
                 </h3>
                 <p align="center">
-                    <a href="lesa3w.github.io/No_Caps/"  target="_blank" rel="noreferrer"> </a>
+                    <a href="https://lesa3w.github.io/No_Caps/"  target="_blank" rel="noreferrer"> </a>
                     <p align="center">
                         📝 A showcase site for my collection of NFTs !
                     </p>
@@ -172,6 +174,6 @@
 <h1 align="center">⬇️ To contact me ⬇️</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/paul-chenon" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
-  <a href="mailto:paulchenon@gmail.com" target="blank"> <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="Gmail" height="30" width="40"/> </a>
+  <a href="https://www.linkedin.com/in/paul-chenon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Paul Chenon" height="30" width="40" /></a>
+  <a href="https://mailto:paulchenon@gmail.com" target="blank"> <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="paulchenon@gmail.com" height="30" width="40"/> </a>
 </p>
