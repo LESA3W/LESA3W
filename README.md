@@ -29,8 +29,7 @@
                         📝 A site summarising Yomi Denzel !
             	</p>
             </td>
-        </tr>
-        <tr>
+
 
 
 
@@ -65,8 +64,7 @@
                 </p>
                 </p>
             </td>
-        </tr>
-        <tr>
+
 
   
 <td width="50%">
