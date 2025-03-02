@@ -172,10 +172,6 @@
 <h1 align="center">⬇️ To contact me ⬇️</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/paul-chenon" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="mailto:paulchenon@gmail.com" target="blank">
-    <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="Gmail" height="30" width="40"/>
-  </a>
+  <a href="www.linkedin.com/in/paul-chenon" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
+  <a href="mailto:paulchenon@gmail.com" target="blank"> <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="Gmail" height="30" width="40"/> </a>
 </p>
