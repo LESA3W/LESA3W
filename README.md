@@ -198,13 +198,16 @@
 
 <!-- Contact -->
 <h1 align="center">⬇️ To contact me ⬇️</h1>
-<p align="left">
+
+<p align="center">
 <a href="https://linkedin.com/in/paul chenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul chenon" height="30" width="40" /></a>
 </p>
-<p align="right">
-    - <a href="mailto:paulchenon@gmail.com">Send email</a>
-    <p style='margin-bottom: 20px'>
-    </p>
+
+<p align="center">
+<a href="mailto:paulchenon@gmail.com">📧 Mail</a>
+<p style='margin-bottom: 20px'>
+</p>
+
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
