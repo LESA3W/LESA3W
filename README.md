@@ -19,7 +19,7 @@
   <table>
         <tr>
 		
-<td width="60%">
+<td width="50%">
                 <h3 align="center">
                     <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
                 </h3>
@@ -34,7 +34,7 @@
 
 
   
-<td width="60%">
+<td width="50%">
                             <h3 align="center">
                     <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
                 </h3>
@@ -50,7 +50,7 @@
 
 
   
-<td width="60%">
+<td width="50%">
 				<h3 align="center">
                     <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
                 </h3>
@@ -66,7 +66,7 @@
         <tr>
 
   
-<td width="60%">
+<td width="50%">
              <h3 align="center">
                     <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
                 </h3>
@@ -83,7 +83,7 @@
 	
 
   
-<td width="60%">
+<td width="50%">
 				<h3 align="center">
                     <a href="lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
                 </h3>
@@ -98,7 +98,7 @@
 
 
   
-<td width="60%">
+<td width="50%">
              <h3 align="center">
                     <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer">🌐 Sphere Size</a>
                 </h3>
@@ -114,6 +114,10 @@
         <tr>
   </table>
 </div>
+
+
+
+
 
 
 
@@ -186,13 +190,17 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
 </p>
 
+
+
+
+
+
 <!-- Contact -->
-<h1 align="center">How to get in touch?</h1>
-<h3 align="center">If you need my expertise for your project 👇</h3>
-<p align="center">
-    - <a href="https://twitter.com/messages/compose?recipient_id=test" target="_blank" rel="noopener"> You can send me message on twitter</a>
+<h1 align="center">⬇️ To contact me ⬇️</h1>
+<p align="left">
+<a href="https://linkedin.com/in/paul chenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul chenon" height="30" width="40" /></a>
 </p>
-<p align="center">
+<p align="right">
     - <a href="mailto:paulchenon@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
