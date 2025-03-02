@@ -204,7 +204,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:paulchenon@gmail.com" target="blank"><img align="center" src="https://github.com/LESA3W/visioroombot/blob/main/Gmail_icon_(2020)-alt.svg.png" alt="paulchenon@gmail.com" height="30" width="40" /></a>
+<a href="mailto:paulchenon@gmail.com" target="blank"><img align="center" src="https://github.com/LESA3W/visioroombot/blob/main/Gmail_icon_(2020)-alt.svg" alt="paulchenon@gmail.com" height="30" width="40" /></a>
 </p>
 
 
