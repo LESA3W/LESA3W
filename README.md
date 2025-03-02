@@ -62,7 +62,13 @@
                         📝 A site that calculates the day you were born !
                     </p>
                 </p>
+                </p>
             </td>
+        </tr>
+        <tr>
+
+
+  
 <td width="50%">
              <h3 align="center">
                     <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
@@ -72,10 +78,14 @@
                     <p align="center">
                         📝 An efficient calculator !
                     </p>
-
+                </p>
+                </p>
             </td>
         </tr>
         <tr>
+	
+
+  
 <td width="50%">
                 <h3 align="center">
                     <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> Chrome plugin: Chatpgt Copy Export Clipboard </a>
@@ -85,13 +95,14 @@
                     <p align="center">
                        🪄 Enhance CHATGPT with copy button, export chat in any extension and clipboard manager 📋. Compatible with AIPRM ✅
                     </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						Create a chrome plugin with native JS and webpack.
-					</details>
-            </p>
+                </p>
+                </p>
+            </td>
+        </tr>
+        <tr>
+
+
+  
 <td width="50%">
                 <h3 align="center">Unbox JS 📦</h3>
                 <p align="center">
@@ -100,15 +111,11 @@
                     <p align="center">
                         npm repository
                     </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						We use typescript and jest.
-					</details>
+                </p>
                 </p>
             </td>
         </tr>
+        <tr>
   </table>
 </div>
 
