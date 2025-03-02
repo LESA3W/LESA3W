@@ -124,5 +124,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paul-chenon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Paul Chenon" height="30" width="40" /></a>
-  <a href="https://mailto:paulchenon@gmail.com" target="blank"> <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="paulchenon@gmail.com" height="30" width="40"/> </a>
+  <a href="mailto:paulchenon@gmail.com" target="blank"> <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="paulchenon@gmail.com" height="30" width="40"/> </a>
 </p>
