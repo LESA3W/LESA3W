@@ -1,15 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lesa3w&label=Profile%20views&color=0e75b6&style=flat" alt="lesa3w" /> </p>
+<p align="left">
+        <a href="https://github.com/LESA3W" target="blank"><img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" /></a>
+</p>
 
 <h1 align="center">Hello I'm Paul !</h1>
+
 
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Developer+FullStack;I'm+currently+learning+Vue.js👀">
-</p>
-
-<p align="left">
-        <a href="https://github.com/LESA3W" target="blank"><img src="https://img.shields.io/github/followers/LESA3W?style=social" alt="LESA3W" /></a>
 </p>
 
 
@@ -172,7 +172,7 @@
 <h1 align="center">⬇️ To contact me ⬇️</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/paul chenon" target="blank">
+  <a href="www.linkedin.com/in/paul-chenon" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="mailto:paulchenon@gmail.com" target="blank">
