@@ -86,12 +86,12 @@
   
 <td width="50%">
 				<h3 align="center">
-                    <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
+                    <a href="lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/LESA3W/Day_of_birth"  target="_blank" rel="noreferrer"> </a>
+                    <a href="lesa3w.github.io/No_Caps/"  target="_blank" rel="noreferrer"> </a>
                     <p align="center">
-                        📝 A site that calculates the day you were born !
+                        📝 A showcase site for my collection of NFTs !
                     </p>
                 </p>
                 </p>
@@ -101,12 +101,12 @@
   
 <td width="50%">
              <h3 align="center">
-                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
+                    <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer">🌐 Sphere Size</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer"> </a>
+                    <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer"> </a>
                     <p align="center">
-                        📝 An efficient calculator !
+                        📝 Site for calculating the area or volume of a sphere !
                     </p>
                 </p>
                 </p>
