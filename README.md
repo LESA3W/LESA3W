@@ -205,7 +205,6 @@
 
 <p align="center">
 <a href="mailto:paulchenon@gmail.com">📧 Mail</a>
-<p style='margin-bottom: 20px'>
 </p>
 
 </p>
