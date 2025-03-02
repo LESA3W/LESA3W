@@ -34,7 +34,7 @@
 
 
   
-<td width="60%">
+<td width="50%">
                             <h3 align="center">
                     <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
                 </h3>
@@ -64,7 +64,8 @@
                 </p>
                 </p>
             </td>
-
+        </tr>
+        <tr>
 
   
 <td width="50%">
