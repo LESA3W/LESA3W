@@ -19,7 +19,7 @@
   <table>
         <tr>
 		
-<td width="50%">
+<td width="60%">
                 <h3 align="center">
                     <a href="lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
                 </h3>
@@ -34,7 +34,7 @@
 
 
   
-<td width="90%">
+<td width="60%">
                             <h3 align="center">
                     <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
                 </h3>
@@ -50,7 +50,7 @@
 
 
   
-<td width="50%">
+<td width="60%">
 				<h3 align="center">
                     <a href="https://github.com/LESA3W/Day_of_birth" target="_blank" rel="noreferrer">📅 Day Of Birth</a>
                 </h3>
@@ -66,7 +66,7 @@
         <tr>
 
   
-<td width="50%">
+<td width="60%">
              <h3 align="center">
                     <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
                 </h3>
@@ -83,7 +83,7 @@
 	
 
   
-<td width="50%">
+<td width="60%">
 				<h3 align="center">
                     <a href="lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
                 </h3>
@@ -98,7 +98,7 @@
 
 
   
-<td width="50%">
+<td width="60%">
              <h3 align="center">
                     <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer">🌐 Sphere Size</a>
                 </h3>
