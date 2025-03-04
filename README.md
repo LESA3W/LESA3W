@@ -130,4 +130,5 @@
   <a href="mailto:paulchenon@gmail.com" target="blank"> <img src="https://github.com/LESA3W/visioroombot/blob/main/g_mail.png" alt="paulchenon@gmail.com" height="30" width="40"/> </a>
 </p>
 
+<h1 align="center"></h1>
 <h1 align="center">📌 Pinned Projects ⬇️</h1>
