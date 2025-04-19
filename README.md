@@ -47,9 +47,9 @@
       </td>
       <td width="50%" style="border: none;">
         <h3 align="center">
-          <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
+          <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
         </h3>
-        <p align="center">📝 An efficient calculator !</p>
+        <p align="center">📝 A site summarising Yomi Denzel !</p>
       </td>
 </tr>
 
@@ -60,11 +60,11 @@
           <a href="https://lesa3w.github.io/No_Caps/" target="_blank" rel="noreferrer">🧢 No Caps NFTs</a>
         </h3>
         <p align="center">📝 A showcase site for my collection of NFTs !</p>
-            <td width="50%" style="border: none;">
+      <td width="50%" style="border: none;">
         <h3 align="center">
-          <a href="https://lesa3w.github.io/Yomi_Denzel/" target="_blank" rel="noreferrer"> 🚀 Yomi Denzel</a>
+          <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
         </h3>
-        <p align="center">📝 A site summarising Yomi Denzel !</p>
+        <p align="center">📝 An efficient calculator !</p>
       </td>
     </tr>
   </table>
