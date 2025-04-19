@@ -63,9 +63,9 @@
       </td>
       <td width="50%" style="border: none;">
         <h3 align="center">
-          <a href="https://github.com/LESA3W/Sphere_Size" target="_blank" rel="noreferrer">🌐 Sphere Size</a>
+          <a href="https://github.com/LESA3W/El_Chappo" target="_blank" rel="noreferrer">🦾 El Chappo The Arm</a>
         </h3>
-        <p align="center">📝 Site for calculating the area or volume of a sphere !</p>
+        <p align="center">🕹️ Site for remotely controlling a robotic arm with live motor feedback and joystick interaction !</p>
       </td>
     </tr>
   </table>
