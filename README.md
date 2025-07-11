@@ -9,7 +9,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Developer+FullStack;I'm+currently+learning+Vue.js👀">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Student+Developer+FullStack;I'm+currently+learning+Vue.js👀">
 </p>
 
 <p align="center">
