@@ -102,7 +102,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
 	<a href="https://www.dev-cpp.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://fr.wikipedia.org/wiki/Fichier:C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" target="_blank" rel="noreferrer"> <img src="https://fr.wikipedia.org/wiki/Fichier:C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
