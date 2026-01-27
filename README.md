@@ -97,8 +97,6 @@
 </p>
 
 
-https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
-
 <h3 align="center">Languages</h3>
 <p align="center">
 	<a href="https://www.dev-cpp.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
