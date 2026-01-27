@@ -9,7 +9,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Student+Developer;I'm+currently+learning+C/C++👀">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Student+Developer;I'm+currently+learning+C/C%2B%2B👀">
 </p>
 
 <p align="center">
