@@ -75,7 +75,7 @@
 
 
 <h1 align="center"></h1>
-<!-- Technos -->
+<!-- Languages and Tools -->
 <h1 align="center">Languages and Tools 🛠</h1>
 
 <h3 align="center">Front</h3>
