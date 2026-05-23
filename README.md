@@ -31,7 +31,7 @@
       </td>
       <td width="50%" style="border: none;">
         <h3 align="center">
-          <a href="https://github.com/LESA3W/lego-scraper-bot" target="_blank" rel="noreferrer">🤖 Lego Scraper Bot</a>
+          <a href="https://github.com/LESA3W/Lego_Scraper_Bot" target="_blank" rel="noreferrer">🤖 Lego Scraper Bot</a>
         </h3>
         <p align="center">🤖 Discord bot scanning LeBonCoin and Vinted for underpriced Lego sets, with built-in scam filtering.</p>
       </td>
