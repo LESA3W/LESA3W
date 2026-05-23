@@ -31,9 +31,9 @@
       </td>
       <td width="50%" style="border: none;">
         <h3 align="center">
-          <a href="https://github.com/LESA3W/IMC_Calculator" target="_blank" rel="noreferrer">📊 IMC Calculator</a>
+          <a href="https://github.com/LESA3W/lego-scraper-bot" target="_blank" rel="noreferrer">🤖 Lego Scraper Bot</a>
         </h3>
-        <p align="center">📝 A IMC calculator to find out more about you !</p>
+        <p align="center">🤖 Discord bot scanning LeBonCoin and Vinted for underpriced Lego sets, with built-in scam filtering.</p>
       </td>
 </tr>
 
