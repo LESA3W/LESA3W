@@ -62,9 +62,9 @@
         <p align="center">📝 A showcase site for my collection of NFTs !</p>
       <td width="50%" style="border: none;">
         <h3 align="center">
-          <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🧮 Calculator</a>
+          <a href="https://github.com/LESA3W/Calculator" target="_blank" rel="noreferrer">🍽️ The Atlas of Cauchemar en cuisine</a>
         </h3>
-        <p align="center">📝 An efficient calculator !</p>
+        <p align="center">🍽️ Interactive map of Cauchemar en cuisine restaurants.</p>
       </td>
     </tr>
   </table>
