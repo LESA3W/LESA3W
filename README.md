@@ -12,10 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00ccff&center=true&vCenter=true&lines=Student+Developer;I'm+currently+learning+C/C%2B%2B👀">
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lesa3w&show_icons=true&locale=en&layout=compact" alt="lesa3w" style="display: block; margin: auto;" />
-</p>
-
 
 <!-- Projects -->
 <h1 align="center">My latest projects 💡</h1>
