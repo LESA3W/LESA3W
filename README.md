@@ -16,83 +16,78 @@
 <!-- Projects -->
 <h1 align="center">My latest projects 💡</h1>
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-
-    <tr>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          <a href="https://lesa3w.github.io/El_Chappo/" target="_blank" rel="noreferrer">🦾 El Chappo The Arm</a>
-        </h3>
-        <p align="center">🕹️ Web interface to control a robotic arm remotely, with joystick input and live motor feedback.</p>
-      </td>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          <a href="https://github.com/LESA3W/Lego_Scraper_Bot" target="_blank" rel="noreferrer">🤖 Lego Scraper Bot</a>
-        </h3>
-        <p align="center">🧱 Discord bot scanning LeBonCoin and Vinted for underpriced Lego sets, with built-in scam filtering.</p>
-      </td>
-    </tr>
-
-    <tr>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          <a href="https://github.com/LESA3W/Arduino_Robot_Sumo" target="_blank" rel="noreferrer">🏆 Arduino Robot Sumo</a>
-        </h3>
-        <p align="center">⚔️ Arduino program of the robot that took 2nd place at the 2024 regional Robot Sumo contest (GEII, IUT de Bordeaux).</p>
-      </td>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          🏭 Pandsy
-        </h3>
-        <p align="center">⚙️ Automated website factory: turns a lead sheet into deployed showcase sites with n8n, Node.js, Next.js templates and Vercel.</p>
-      </td>
-    </tr>
-
-    <tr>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          🚀 Star Trek (Epitech)
-        </h3>
-        <p align="center">🌙 Reinforcement learning: DQN and PPO agents trained to land a lunar module (Lunar Lander), compared across seeds.</p>
-      </td>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          🩻 CVRIE (Epitech)
-        </h3>
-        <p align="center">🧠 Supervised learning model (PCA + SVM) that tells normal chest X-rays from pneumonia cases.</p>
-      </td>
-    </tr>
-
-    <tr>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          📈 A.I.T.B
-        </h3>
-        <p align="center">🤖 Algorithmic forex trading bot on MetaTrader 5, with an in-house backtest engine, walk-forward validation and risk guards.</p>
-      </td>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          💬 YPIA
-        </h3>
-        <p align="center">🧠 Personal AI assistant on Telegram powered by Claude, with persistent memory, reminders, scheduled routines and web search.</p>
-      </td>
-    </tr>
-
-    <tr>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          🎞️ ReelsBrain
-        </h3>
-        <p align="center">📚 Second brain for reels: turns Instagram, TikTok and YouTube videos into Obsidian notes that my AI assistant recalls automatically.</p>
-      </td>
-      <td width="50%" style="border: none;">
-        <h3 align="center">
-          <a href="https://a-taaaable.vercel.app" target="_blank" rel="noreferrer">🍽️ À table !</a>
-        </h3>
-        <p align="center">👨‍👩‍👧 Family meal planner PWA: everyone rates their tastes, the app suggests meals everybody likes and builds the shopping list.</p>
-      </td>
-    </tr>
-  </table>
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td width="50%" style="border: none;">
+<h3 align="center">
+<a href="https://lesa3w.github.io/El_Chappo/" target="_blank" rel="noreferrer">🦾 El Chappo The Arm</a>
+</h3>
+<p align="center">🕹️ Web interface to control a robotic arm remotely, with joystick input and live motor feedback.</p>
+</td>
+<td width="50%" style="border: none;">
+<h3 align="center">
+<a href="https://github.com/LESA3W/Lego_Scraper_Bot" target="_blank" rel="noreferrer">🤖 Lego Scraper Bot</a>
+</h3>
+<p align="center">🧱 Discord bot scanning LeBonCoin and Vinted for underpriced Lego sets, with built-in scam filtering.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" style="border: none;">
+<h3 align="center">
+<a href="https://github.com/LESA3W/Arduino_Robot_Sumo" target="_blank" rel="noreferrer">🏆 Arduino Robot Sumo</a>
+</h3>
+<p align="center">⚔️ Arduino program of the robot that took 2nd place at the 2024 regional Robot Sumo contest (GEII, IUT de Bordeaux).</p>
+</td>
+<td width="50%" style="border: none;">
+<h3 align="center">
+🏭 Pandsy
+</h3>
+<p align="center">⚙️ Automated website factory: turns a lead sheet into deployed showcase sites with n8n, Node.js, Next.js templates and Vercel.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" style="border: none;">
+<h3 align="center">
+🚀 Star Trek (Epitech)
+</h3>
+<p align="center">🌙 Reinforcement learning: DQN and PPO agents trained to land a lunar module (Lunar Lander), compared across seeds.</p>
+</td>
+<td width="50%" style="border: none;">
+<h3 align="center">
+🩻 CVRIE (Epitech)
+</h3>
+<p align="center">🧠 Supervised learning model (PCA + SVM) that tells normal chest X-rays from pneumonia cases.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" style="border: none;">
+<h3 align="center">
+📈 A.I.T.B
+</h3>
+<p align="center">🤖 Algorithmic forex trading bot on MetaTrader 5, with an in-house backtest engine, walk-forward validation and risk guards.</p>
+</td>
+<td width="50%" style="border: none;">
+<h3 align="center">
+💬 YPIA
+</h3>
+<p align="center">🧠 Personal AI assistant on Telegram powered by Claude, with persistent memory, reminders, scheduled routines and web search.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" style="border: none;">
+<h3 align="center">
+🎞️ ReelsBrain
+</h3>
+<p align="center">📚 Second brain for reels: turns Instagram, TikTok and YouTube videos into Obsidian notes that my AI assistant recalls automatically.</p>
+</td>
+<td width="50%" style="border: none;">
+<h3 align="center">
+<a href="https://a-taaaable.vercel.app" target="_blank" rel="noreferrer">🍽️ À table !</a>
+</h3>
+<p align="center">👨‍👩‍👧 Family meal planner PWA: everyone rates their tastes, the app suggests meals everybody likes and builds the shopping list.</p>
+</td>
+</tr>
+</table>
 </div>
 
 
