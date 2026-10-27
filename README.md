@@ -15,80 +15,78 @@
 
 <!-- Projects -->
 <h1 align="center">My latest projects 💡</h1>
-<div align="center">
-<table style="border-collapse: collapse; border: none;">
+<table>
 <tr>
-<td width="50%" style="border: none;">
-<h3 align="center">
-<a href="https://lesa3w.github.io/El_Chappo/" target="_blank" rel="noreferrer">🦾 El Chappo The Arm</a>
-</h3>
-<p align="center">🕹️ Web interface to control a robotic arm remotely, with joystick input and live motor feedback.</p>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/atable-app"><img src="assets/projects/atable.png" alt="🍽️ Atable" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/atable-app">🍽️ Atable</a></h3>
+<p>Family meal planner, <b>live on the App Store</b>. Everyone sets their tastes, the app suggests meals the whole family likes and builds the shopping list.</p>
+<p><sub><a href="https://apps.apple.com/fr/app/ataaable/id6789919604">App Store</a> · <a href="https://a-taaaable.vercel.app">Web app</a> · <a href="https://github.com/LESA3W/atable-app">Code</a></sub></p>
 </td>
-<td width="50%" style="border: none;">
-<h3 align="center">
-<a href="https://github.com/LESA3W/Lego_Scraper_Bot" target="_blank" rel="noreferrer">🤖 Lego Scraper Bot</a>
-</h3>
-<p align="center">🧱 Discord bot scanning LeBonCoin and Vinted for underpriced Lego sets, with built-in scam filtering.</p>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/Pandsy"><img src="assets/projects/pandsy.png" alt="🏭 Pandsy" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/Pandsy">🏭 Pandsy</a></h3>
+<p>GTM engine that built and cold-emailed <b>2,887 local-business websites</b> in 4 months: scraping, ~90 s site generation, deploy and outreach, orchestrated by n8n.</p>
+<p><sub><a href="https://github.com/LESA3W/Pandsy">Code &amp; write-up</a></sub></p>
 </td>
 </tr>
 <tr>
-<td width="50%" style="border: none;">
-<h3 align="center">
-<a href="https://github.com/LESA3W/Arduino_Robot_Sumo" target="_blank" rel="noreferrer">🏆 Arduino Robot Sumo</a>
-</h3>
-<p align="center">⚔️ Arduino program of the robot that took 2nd place at the 2024 regional Robot Sumo contest (GEII, IUT de Bordeaux).</p>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/ypia-app"><img src="assets/projects/ypia.png" alt="🧠 ypia." width="100%"></a>
+<h3><a href="https://github.com/LESA3W/ypia-app">🧠 ypia.</a></h3>
+<p>Claude-powered assistant that lives in Telegram, <b>remembers you</b> and runs proactive routines, plus the private web console to steer it.</p>
+<p><sub><a href="https://github.com/LESA3W/ypia-app">Code</a></sub></p>
 </td>
-<td width="50%" style="border: none;">
-<h3 align="center">
-🏭 Pandsy
-</h3>
-<p align="center">⚙️ Automated website factory: turns a lead sheet into deployed showcase sites with n8n, Node.js, Next.js templates and Vercel.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" style="border: none;">
-<h3 align="center">
-🚀 Star Trek (Epitech)
-</h3>
-<p align="center">🌙 Reinforcement learning: DQN and PPO agents trained to land a lunar module (Lunar Lander), compared across seeds.</p>
-</td>
-<td width="50%" style="border: none;">
-<h3 align="center">
-🩻 CVRIE (Epitech)
-</h3>
-<p align="center">🧠 Supervised learning model (PCA + SVM) that tells normal chest X-rays from pneumonia cases.</p>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/aitb"><img src="assets/projects/aitb.png" alt="📈 A.I.T.B" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/aitb">📈 A.I.T.B</a></h3>
+<p>Autonomous MetaTrader 5 trading bot with its own <b>backtesting engine</b>, walk-forward research, prop firm guard rail and live dashboards.</p>
+<p><sub><a href="https://github.com/LESA3W/aitb">Code</a></sub></p>
 </td>
 </tr>
 <tr>
-<td width="50%" style="border: none;">
-<h3 align="center">
-📈 A.I.T.B
-</h3>
-<p align="center">🤖 Algorithmic forex trading bot on MetaTrader 5, with an in-house backtest engine, walk-forward validation and risk guards.</p>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/reelsbrain"><img src="assets/projects/reelsbrain.png" alt="🎞️ ReelsBrain" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/reelsbrain">🎞️ ReelsBrain</a></h3>
+<p>Second brain that turns saved Reels, TikToks and YouTube videos into <b>searchable Obsidian notes</b>, transcribed and distilled by AI.</p>
+<p><sub><a href="https://github.com/LESA3W/reelsbrain">Code</a></sub></p>
 </td>
-<td width="50%" style="border: none;">
-<h3 align="center">
-💬 YPIA
-</h3>
-<p align="center">🧠 Personal AI assistant on Telegram powered by Claude, with persistent memory, reminders, scheduled routines and web search.</p>
+<td width="50%" valign="top">
+<img src="assets/projects/star-trek.png" alt="🚀 Star Trek · Epitech" width="100%">
+<h3>🚀 Star Trek · Epitech</h3>
+<p>DQN and PPO agents that learn to land on the Moon. PPO solves Lunar Lander with a <b>259.6 mean score</b> and 299/300 clean landings.</p>
+<p><sub><i>School project, private repo</i></sub></p>
 </td>
 </tr>
 <tr>
-<td width="50%" style="border: none;">
-<h3 align="center">
-🎞️ ReelsBrain
-</h3>
-<p align="center">📚 Second brain for reels: turns Instagram, TikTok and YouTube videos into Obsidian notes that my AI assistant recalls automatically.</p>
+<td width="50%" valign="top">
+<img src="assets/projects/cvrie.png" alt="🩻 CVRIE · Epitech" width="100%">
+<h3>🩻 CVRIE · Epitech</h3>
+<p>Chest X-ray pneumonia classifier (PCA + SVM). <b>90.7% accuracy</b> on MedMNIST, ahead of the paper's ResNet-18 and ResNet-50 baselines.</p>
+<p><sub><i>School project, private repo</i></sub></p>
 </td>
-<td width="50%" style="border: none;">
-<h3 align="center">
-<a href="https://a-taaaable.vercel.app" target="_blank" rel="noreferrer">🍽️ À table !</a>
-</h3>
-<p align="center">👨‍👩‍👧 Family meal planner PWA: everyone rates their tastes, the app suggests meals everybody likes and builds the shopping list.</p>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/Lego_Scraper_Bot"><img src="assets/projects/lego-scraper-bot.png" alt="🤖 Lego Scraper Bot" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/Lego_Scraper_Bot">🤖 Lego Scraper Bot</a></h3>
+<p>Discord bot that scans LeBonCoin and Vinted <b>in real time</b> for underpriced Lego sets and filters out scams.</p>
+<p><sub><a href="https://github.com/LESA3W/Lego_Scraper_Bot">Code</a></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/El_Chappo"><img src="assets/projects/el-chappo.png" alt="🦾 El Chappo The Arm" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/El_Chappo">🦾 El Chappo The Arm</a></h3>
+<p>Web app to drive a robotic arm remotely, with <b>joystick control</b> and live motor feedback.</p>
+<p><sub><a href="https://lesa3w.github.io/El_Chappo/">Live demo</a> · <a href="https://github.com/LESA3W/El_Chappo">Code</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/Arduino_Robot_Sumo"><img src="assets/projects/robot-sumo.png" alt="🏆 Chappie Sumo Robot" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/Arduino_Robot_Sumo">🏆 Chappie Sumo Robot</a></h3>
+<p>Arduino program of the robot that took <b>2nd place</b> at the 2024 regional Robot Sumo contest (IUT de Bordeaux, GEII).</p>
+<p><sub><a href="https://github.com/LESA3W/Arduino_Robot_Sumo">Code</a></sub></p>
 </td>
 </tr>
 </table>
-</div>
 
 
 
