@@ -53,7 +53,6 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/LESA3W/El_Chappo"><img src="assets/projects/el-chappo.png" alt="🦾 El Chappo The Arm" width="100%"></a>
-<p align="center"><img src="assets/projects/el-chappo-arm.jpg" alt="El Chappo, the arm built from scratch" width="55%"></p>
 <h3><a href="https://github.com/LESA3W/El_Chappo">🦾 El Chappo The Arm</a></h3>
 <p>Robotic arm <b>built from A to Z</b> by replicating Arduino's orange arm kit, driven from the browser with joysticks and live motor feedback.</p>
 <p><sub><a href="https://lesa3w.github.io/El_Chappo/">Live demo</a> · <a href="https://github.com/LESA3W/El_Chappo">Code</a></sub></p>
