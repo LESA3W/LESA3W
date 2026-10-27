@@ -34,7 +34,7 @@
 <td width="50%" valign="top">
 <a href="https://github.com/LESA3W/ypia-app"><img src="assets/projects/ypia.png" alt="🧠 ypia." width="100%"></a>
 <h3><a href="https://github.com/LESA3W/ypia-app">ypia.</a></h3>
-<p>Claude-powered assistant that lives in Telegram, <b>remembers you</b> and runs proactive routines, plus the private web console to steer it.</p>
+<p>Claude-powered assistant that lives in your phone, <b>remembers you</b> and runs proactive routines, plus the private web console to steer it.</p>
 <p><sub><a href="https://github.com/LESA3W/ypia-app">Code</a></sub></p>
 </td>
 <td width="50%" valign="top">
