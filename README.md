@@ -86,6 +86,15 @@
 <p><sub><a href="https://github.com/LESA3W/Lego_Scraper_Bot">Code</a></sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/LESA3W/claude-statusline"><img src="assets/projects/claude-statusline.png" alt="Claude Code Status Line" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/claude-statusline">Claude Code Status Line</a></h3>
+<p>Compact status line for Claude Code: <b>context usage</b>, compaction counter, 5h and 7d rate limits with reset times, model and effort. Single file, zero dependencies.</p>
+<p><sub><a href="https://github.com/LESA3W/claude-statusline">Code</a></sub></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 
