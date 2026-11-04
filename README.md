@@ -18,10 +18,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/projects/star-trek.png" alt="🚀 Star Trek · Epitech" width="100%">
-<h3>Star Trek · Epitech</h3>
+<a href="https://github.com/LESA3W/AI_Star_Trek"><img src="assets/projects/star-trek.png" alt="🚀 Star Trek · Epitech" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/AI_Star_Trek">Star Trek · Epitech</a></h3>
 <p>DQN and PPO agents that learn to land on the Moon. PPO solves Lunar Lander with a <b>259.6 mean score</b> and 299/300 clean landings.</p>
-<p><sub><i>School project, private repo</i></sub></p>
+<p><sub><a href="https://github.com/LESA3W/AI_Star_Trek">Write-up</a> · <i>code private (school project)</i></sub></p>
 </td>
 <td width="50%" valign="top">
 <img src="assets/projects/cvrie.png" alt="🩻 CVRIE · Epitech" width="100%">
