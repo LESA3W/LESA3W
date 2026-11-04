@@ -24,10 +24,10 @@
 <p><sub><a href="https://github.com/LESA3W/AI_Star_Trek">Write-up</a> · <i>code private (school project)</i></sub></p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/projects/cvrie.png" alt="🩻 CVRIE · Epitech" width="100%">
-<h3>CVRIE · Epitech</h3>
+<a href="https://github.com/LESA3W/AI_CVRIE"><img src="assets/projects/cvrie.png" alt="🩻 CVRIE · Epitech" width="100%"></a>
+<h3><a href="https://github.com/LESA3W/AI_CVRIE">CVRIE · Epitech</a></h3>
 <p>Chest X-ray pneumonia classifier (PCA + SVM). <b>90.7% accuracy</b> on MedMNIST, ahead of the paper's ResNet-18 and ResNet-50 baselines.</p>
-<p><sub><i>School project, private repo</i></sub></p>
+<p><sub><a href="https://github.com/LESA3W/AI_CVRIE">Write-up</a> · <i>code private (school project)</i></sub></p>
 </td>
 </tr>
 <tr>
